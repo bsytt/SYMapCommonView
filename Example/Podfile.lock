@@ -1,5 +1,5 @@
 PODS:
-  - SYMapCommonView (0.1.0)
+  - SYMapCommonView (0.1.2)
 
 DEPENDENCIES:
   - SYMapCommonView (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SYMapCommonView: ada0b14e10e5b890244e23da96ba98088430d0b6
+  SYMapCommonView: ef1b6a44178728c01e5a29677625e1cf5fc7765a
 
-PODFILE CHECKSUM: c4d7ad8c0d1dab708c6cd41146964c0f839cc644
+PODFILE CHECKSUM: b87b9b456d7c6425e324238fb2dae92fa852521d
 
 COCOAPODS: 1.10.1

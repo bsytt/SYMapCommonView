@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SYMapCommonView'
-  s.version          = '0.1.1'
+  s.version          = '0.1.5'
   s.summary          = 'svg画中国地图和各省市地图'
 
 # This description is used to generate tags and improve search results.
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '10.0'
   s.swift_version = '5.0'
-  s.source_files = 'SYMapCommonView/Classes/**/*.{swift},SYMapCommonView/Classes/*.{swift}'
+  s.source_files = 'SYMapCommonView/Classes/*.{swift}'
   
   # s.resource_bundles = {
   #   'SYMapCommonView' => ['SYMapCommonView/Assets/*.png']

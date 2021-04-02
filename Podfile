@@ -6,7 +6,7 @@ target 'Pods-SYMapCommonView_Example' do
   use_frameworks!
 
   # Pods for Pods-SYMapCommonView_Example
-
+ 
 end
 
 target 'Pods-SYMapCommonView_Tests' do

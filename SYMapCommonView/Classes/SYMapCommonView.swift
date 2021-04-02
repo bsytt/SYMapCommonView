@@ -122,7 +122,7 @@ open class SYMapCommonView: UIView {
     
     override init(frame: CGRect) {
         super.init(frame: frame)
-        self.backgroundColor = .gray
+        self.backgroundColor = .white
         clickEnableMethod()
     }
     
