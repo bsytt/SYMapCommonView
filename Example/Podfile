@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'SYMapCommonView_Example' do
+  pod 'SYMapCommonView', :path => '../'
+
+  target 'SYMapCommonView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,6 @@
+framework module SYMapCommonView {
+  umbrella header "SYMapCommonView-umbrella.h"
+
+  export *
+  module * { export * }
+}
